@@ -32,7 +32,7 @@
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
-      "version": "https://github.com/espressif/ESP8266_RTOS_SDK.git"
+      "version": "https://github.com/andriy-yermakov/ESP8266_RTOS_SDK.git"
     },
     "tool-curl-for-win": {
       "type": "uploader",
